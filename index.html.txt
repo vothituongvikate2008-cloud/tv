@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>AI Sử Dụng Đúng Cách - Trang chủ</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1 class="logo">AI Sử Dụng Đúng Cách</h1>
+      <nav class="main-nav">
+        <a href="index.html">Trang chủ</a>
+        <a href="huongdan.html">Hướng dẫn</a>
+        <a href="chatbot.html">Chatbot</a>
+        <a href="quiz.html">Trắc nghiệm</a>
+        <a href="about.html">Giới thiệu</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <h2>Học thông minh — không lạm dụng AI</h2>
+      <p>Trang web mẫu phục vụ dự án KHKT: hướng dẫn học sinh sử dụng AI đúng cách.</p>
+      <p><a class="btn" href="huongdan.html">Tìm hiểu ngay</a></p>
+    </section>
+
+    <section class="features">
+      <div class="card">
+        <h3>Hướng dẫn</h3>
+        <p>Ví dụ cách dùng ChatGPT để học, không làm hộ.</p>
+      </div>
+      <div class="card">
+        <h3>Chatbot</h3>
+        <p>Trợ lý kiểm tra nhanh ý định dùng AI (mô phỏng).</p>
+      </div>
+      <div class="card">
+        <h3>Trắc nghiệm</h3>
+        <p>Kiểm tra kiến thức về sử dụng AI an toàn.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© 2025 — Dự án KHKT: AI Sử Dụng Đúng Cách</p>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
